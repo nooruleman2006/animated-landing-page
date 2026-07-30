@@ -11,7 +11,7 @@ A single-page animated landing page built with HTML, CSS, and vanilla JavaScript
 
 ## File Structure
 
-Assignment4/
+Assignment4
 ├── index.html
 ├── style.css
 ├── script.js
@@ -28,6 +28,3 @@ Assignment4/
 
 Open `index.html` in any browser or serve with `npx serve .`
 
----
-
-&copy; 2026 NovaBuild. Neurofive Solutions Assignment.
